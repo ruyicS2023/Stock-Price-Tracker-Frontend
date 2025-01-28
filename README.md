@@ -26,3 +26,14 @@ Make sure you have the following installed on your system:
    git clone https://github.com/yourusername/Stock-Price-Tracker-Frontend.git
    cd Stock-Price-Tracker-Frontend
    ```
+2. Install the required dependencies
+   ```bash
+   npm install
+   ```
+3. Start the development server
+   ```bash
+   npm run dev
+   ```
+4. Open [localhost:3000](http://localhost:3000) in your browser to view the app
+
+
